@@ -1,5 +1,6 @@
-﻿
 # Scrape History Overviews
+
+![#SHO](https://github.com/farique1/scrape-history-overviews/blob/master/Images/SHO.png)  
 
 ## What it is.
 
@@ -9,6 +10,8 @@
 ## How to use.
 
 >**SHO** need to be on the same folder as its `Data` subfolder.  
+
+![#gui](https://github.com/farique1/scrape-history-overviews/blob/master/Images/gui.png)
 
 From top to bottom on the main interface:  
 
