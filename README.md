@@ -1,7 +1,7 @@
-<img src="https://github.com/farique1/scrape-history-overviews/blob/master/Images/GitHub_AMHO_Logo-02.png" alt="Scrape History Overviews" width="290" height="130">  
+<img src="https://github.com/farique1/scrape-history-overviews/blob/master/Images/GitHub_AMHO_Logo-02.png" alt="Attract Mode History Overviews" width="290" height="130">  
 
 
-# Scrape History Overviews
+# Attract Mode History Overviews
 
 ## What it is.
 
