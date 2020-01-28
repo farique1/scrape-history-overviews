@@ -1,6 +1,7 @@
-# Scrape History Overviews
+<img src="https://github.com/farique1/scrape-history-overviews/blob/master/Images/GitHub_AMHO_Logo-02.png" alt="Scrape History Overviews" width="290" height="130">  
 
-![#SHO](https://github.com/farique1/scrape-history-overviews/blob/master/Images/SHO.png)  
+
+# Scrape History Overviews
 
 ## What it is.
 
